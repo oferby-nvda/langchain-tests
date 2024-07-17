@@ -1,6 +1,7 @@
 langchain
 langchain-groq
 langchain-core
+langchainhub
 langgraph
 python-dotenv
 nbformat
