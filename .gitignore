@@ -1,2 +1,4 @@
 .env
 venv/
+tests/graphRAG/neo4j/
+tests/vector_db/chroma_db

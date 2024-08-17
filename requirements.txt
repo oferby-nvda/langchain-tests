@@ -9,3 +9,5 @@ python-dotenv
 nbformat
 beautifulsoup4
 duckduckgo-search
+
+chromadb
