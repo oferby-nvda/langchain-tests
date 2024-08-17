@@ -8,7 +8,8 @@ groq_api_key = os.getenv("GROQ_API_KEY")
 
 chat = ChatGroq(
     temperature=0,
-    model_name="mixtral-8x7b-32768",
+    # model_name="mixtral-8x7b-32768",
+    model_name="llama-3.1-70b-versatile",
     groq_api_key=groq_api_key
 )
 

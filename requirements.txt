@@ -2,7 +2,10 @@ langchain
 langchain-groq
 langchain-core
 langchainhub
+langchain-community
+langchain-experimental
 langgraph
 python-dotenv
 nbformat
 beautifulsoup4
+duckduckgo-search
